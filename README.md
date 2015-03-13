@@ -17,7 +17,7 @@ It's important to place the script in a new folder (like the `stats` I'm using) 
 If you want to monitor the `br-lan` interface, it should find it automatically.
 If not, you may need to add your interface name in the `possible_interfaces` array, in the beginning of the source file.
 
-The QUOTA variables are used to calculate your monthly quota, for exemple. They are in Gb.
+The QUOTA variables are used to calculate your monthly quota, for example. They are in Gb.
 
 ## Run
 
