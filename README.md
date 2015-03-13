@@ -1,6 +1,10 @@
 # Stats-Saver
 Used to monitor bandwidth use, specialy for a router using OpenWRT.
 
+## Requirements
+
+- Lua
+
 ## Installation
 
 Place `stats-saver.lua` in a folder in your CGI folder.
