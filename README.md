@@ -28,7 +28,7 @@ Considering you placed the file as I said, add these lines to your crontab:
 
 (You can open it with `crontab -e`)
 
-They will monitor the interface each minute. And reset quota each month.
+They will monitor the interface each minute. And reset quota each month. Well, let's hope so...
 
 ## Use
 
